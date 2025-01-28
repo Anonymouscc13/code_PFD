@@ -17,7 +17,7 @@ Our codebase accesses the datasets from `./data/` and checkpoints from `./result
 
 All of the adversarial data are generated using torchattacks.
 
-Generate noise distribution by gen_dist.py or download from [here](https://pan.baidu.com/s/11gzCNm6S3eqzBmSegk0JaQ?pwd=z433). 
+Generate noise distribution by gen_dist.py. 
 Put distributions under 'data/dist/'.
 
 ### Train Detector
