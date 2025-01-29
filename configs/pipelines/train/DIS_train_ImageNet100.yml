@@ -37,8 +37,10 @@ optimizer:
   num_epochs: 10
   logbatch: 100
   learning_rate: 2.0e-4
+  lr: 2.0e-4
   momentum: 0.9
   weight_decay: 5.0e-6
+  logbatch: 100
 
 recorder:
   name: SP
